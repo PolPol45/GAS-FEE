@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+reports/
+plots/
+*.docx
+*.xlsx
+*.pdf
+GASS FEE CHART.png
+fee_max_vs_reali_gwei.png
+pscore_vs_cost_scatter.png
+feemax_scenarios_results.csv
+backtest_*.csv
+simulate_pipeline_feemax.py
